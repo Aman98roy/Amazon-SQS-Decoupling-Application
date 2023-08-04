@@ -1,11 +1,10 @@
-![Animation](https://github.com/Aman98roy/Amazon-SQS-Decoupling-Application/assets/63066645/88b48848-c867-4519-9756-a3449fdb6703)# Decoupling Applications with Spring Boot and Amazon SQS
+# Decoupling Applications with Spring Boot and Amazon SQS
 
 ## Introduction
 
 This repository contains the code and resources for the tech blog titled "Decoupling Applications with Spring Boot and Amazon Simple Queue Service (SQS)." In this tutorial, we explore the concept of decoupling applications using Spring Boot and SQS on AWS. Decoupling applications is a crucial architectural pattern that promotes loose coupling between different components, making them more scalable, maintainable, and fault-tolerant.
 
 ![Animation](https://github.com/Aman98roy/Amazon-SQS-Decoupling-Application/assets/63066645/521df99b-eb6c-4b87-b9b2-93c324593eaf)
-
 
 ## Prerequisites
 
