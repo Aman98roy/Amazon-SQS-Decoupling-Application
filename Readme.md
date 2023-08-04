@@ -29,6 +29,6 @@ Follow the steps below to set up and deploy the applications:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https:https://github.com/Aman98roy/Amazon-SQS-Project.git
-cd Amazon-SQS-Project
+git clone https://github.com/Aman98roy/Amazon-SQS-Decoupling-Application.git
+cd Amazon-SQS-Decoupling-Application
 
